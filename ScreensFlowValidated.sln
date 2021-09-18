@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreensFlowValidated", "ScreensFlowValidated\ScreensFlowValidated.csproj", "{F482688B-01B8-436C-8128-C1FDD05BCB32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F482688B-01B8-436C-8128-C1FDD05BCB32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F482688B-01B8-436C-8128-C1FDD05BCB32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F482688B-01B8-436C-8128-C1FDD05BCB32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F482688B-01B8-436C-8128-C1FDD05BCB32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20ABB589-009E-4C61-B6F9-381CF46972B1}
+	EndGlobalSection
+EndGlobal
